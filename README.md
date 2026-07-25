@@ -71,6 +71,19 @@ Created visualizations to identify:
 
 ## Business Recommendations
 
+---
+
+## Skills Demonstrated
+- Data cleaning with Python
+- Exploratory data analysis (EDA)
+- Business-focused data interpretation
+- Data visualization
+- Generating actionable recommendations from data
+
+---
+
+## Conclusion
+This analysis demonstrates how Python can be used to transform raw business data into meaningful insights. The findings show that improving cost control and operational efficiency are critical for increasing profitability while maintaining strong sales performance.
 - Improve supplier negotiations and purchasing strategies to reduce COGS.
 - Optimize inventory management to control production expenses.
 - Prioritize marketing and resources toward high-performing markets.
