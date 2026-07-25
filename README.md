@@ -71,6 +71,14 @@ Created visualizations to identify:
 
 ## Business Recommendations
 
+Based on the analysis, the following recommendations were identified to improve profitability:
+
+- **Reduce COGS:** Improve supplier negotiations, purchasing strategies, and inventory management to control rising production costs.
+- **Optimize Inventory Management:** Use demand trends to improve purchasing decisions and reduce excess inventory or waste.
+- **Invest in High-Performing Markets:** Allocate additional marketing and operational resources toward Major Markets to maximize revenue opportunities.
+- **Improve Product Profitability:** Evaluate low-margin products and consider pricing adjustments or cost reduction strategies.
+- **Monitor Financial Performance:** Track sales, COGS, and profit against budget regularly to identify cost issues early and support data-driven decisions.
+
 ---
 
 ## Skills Demonstrated
