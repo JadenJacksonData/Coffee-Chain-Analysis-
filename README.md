@@ -22,9 +22,7 @@ Key business questions:
 ## Tools & Technologies
 - Python
 - Pandas
-- NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
